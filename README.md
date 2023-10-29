@@ -67,7 +67,7 @@
 
 **Цель проекта:** научиться работать с БД и писать запросы на получение информации по заданным условиям.
   
->   [Ссылка на проект](https://www.notion.so/SQL-b3520f489b4c41989ff85587bdbf3dad?pvs=4)
+>   [Ссылка на проект](https://magnificent-butter-c06.notion.site/SQL-b3520f489b4c41989ff85587bdbf3dad?pvs=4)
 
 ## Контактная информация
 - Email: tulyavko@yandex.ru
